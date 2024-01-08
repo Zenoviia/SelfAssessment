@@ -1,16 +1,16 @@
 ## Programming fundamental concepts
 
-Syntax and concepts
- -value: 🖐 used
-identifier: 👂 heard
-variable: 🖐 used
-constant: 🖐 used
-scalar: 🖐 used
-literal: 🖐 used
-expression: 🖐 used
-heap:👂 heard
-function: 🖐 used
-procedure: 👂 heard
+-Syntax and concepts
+ - value: 🖐 used
+ - identifier: 👂 heard
+ - variable: 🖐 used
+ - constant: 🖐 used
+ - scalar: 🖐 used
+ - literal: 🖐 used
+ - expression: 🖐 used
+ - heap:👂 heard
+ - function: 🖐 used
+ - procedure: 👂 heard
 method: 👂 heard
 class: 🖐 used
 prototype:👂 heard
