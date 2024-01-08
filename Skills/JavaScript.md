@@ -1,7 +1,5 @@
 ## JavaScript
 
-👂 heard, 🎓 known, 🖐 used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
-
 - Language
   - Object: 🖐 used
   - this: 🖐 used
