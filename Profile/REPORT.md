@@ -67,159 +67,41 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Symbol` | 🤷 unknown | ⟶  | 🎓 known |
-| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
-| `null` | 🤷 unknown | ⟶  | 🖐️ used |
-| `this` | 🤷 unknown | ⟶  | 🖐️ used |
-| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 👂 heard |
-| Chaining | 🤷 unknown | ⟶  | 👂 heard |
-| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
-| `prototype` | 🤷 unknown | ⟶  | 👂 heard |
-| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
-| `await` | 🤷 unknown | ⟶  | 👂 heard |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
 | `super` | 🎓 known | ⟶  | 🖐️ used |
-| `static` | 🤷 unknown | ⟶  | 👂 heard |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `do..while` | 🤷 unknown | ⟶  | 🎓 known |
-| `for` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
-| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
-| `break` | 🤷 unknown | ⟶  | 🎓 known |
 | `continue` | 👂 heard | ⟶  | 🎓 known |
-| `import` | 🤷 unknown | ⟶  | 🎓 known |
-| `export` | 🤷 unknown | ⟶  | 🎓 known |
-| `try..catch` | 🤷 unknown | ⟶  | 🎓 known |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
-| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
-| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
-| Async function | 🤷 unknown | ⟶  | 🎓 known |
-| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
-| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Map` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
 | Mixins | 👂 heard | ⟶  | 🎓 known |
 | `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
-| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Promise` | 🤷 unknown | ⟶  | 👂 heard |
-| `console` | 🤷 unknown | ⟶  | 🖐️ used |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `14` of `72` skills, `58` to be upgraded, and `2` above needed
+Total: you have `67` of `72` skills, `5` to be upgraded, and `19` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
 | `BigInt` | 🎓 known | ⟶  | 🖐️ used |
-| `String` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Symbol` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Infinity` | 🤷 unknown | ⟶  | 🖐️ used |
-| `NaN` | 🤷 unknown | ⟶  | 🖐️ used |
-| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
-| `null` | 🤷 unknown | ⟶  | 🖐️ used |
-| `this` | 🤷 unknown | ⟶  | 🖐️ used |
-| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
-| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
-| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
-| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
 | Generators | 👂 heard | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
-| Chaining | 🤷 unknown | ⟶  | 🖐️ used |
 | IIFE | 🎓 known | ⟶  | 🖐️ used |
 | Async IIFE | 👂 heard | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 👂 heard | ⟶  | 🖐️ used |
-| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
-| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
-| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
 | `void` | 👂 heard | ⟶  | 🖐️ used |
 | `yield` | 👂 heard | ⟶  | 🖐️ used |
-| `await` | 🤷 unknown | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
-| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
-| `in` | 🤷 unknown | ⟶  | 👂 heard |
 | `super` | 🎓 known | ⟶  | 🖐️ used |
 | `eval` | 👂 heard | ⟶  | 🎓 known |
-| `static` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseInt` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
 | Computed properties | 👂 heard | ⟶  | 🎓 known |
-| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
-| `if` | 🤷 unknown | ⟶  | 🖐️ used |
-| `while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for` | 🤷 unknown | ⟶  | 🖐️ used |
-| `for..in` | 🤷 unknown | ⟶  | 🎓 known |
-| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
 | `for await` | 👂 heard | ⟶  | 🖐️ used |
-| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
-| `break` | 🤷 unknown | ⟶  | 🖐️ used |
 | `continue` | 👂 heard | ⟶  | 🖐️ used |
-| `import` | 🤷 unknown | ⟶  | 🖐️ used |
-| `export` | 🤷 unknown | ⟶  | 🖐️ used |
-| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
-| `class` | 🤷 unknown | ⟶  | 🖐️ used |
-| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
-| `new` | 🤷 unknown | ⟶  | 🖐️ used |
-| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
-| Async function | 🤷 unknown | ⟶  | 🖐️ used |
-| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
-| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
-| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| `return` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Map` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
 | `WeakMap` | 👂 heard | ⟶  | 🎓 known |
 | `WeakSet` | 👂 heard | ⟶  | 🎓 known |
 | Typed arrays | 👂 heard | ⟶  | 🎓 known |
 | `Object.assign` | 👂 heard | ⟶  | 🎓 known |
 | `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `RegExp` | 👂 heard | ⟶  | 🎓 known |
-| `Math` | 🤷 unknown | ⟶  | 🎓 known |
 | `Reflect` | 👂 heard | ⟶  | 🎓 known |
-| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
-| `JSON` | 🤷 unknown | ⟶  | 🖐️ used |
-| `Promise` | 🤷 unknown | ⟶  | 🖐️ used |
-| `console` | 🤷 unknown | ⟶  | 🖐️ used |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
-| V8 | 🤷 unknown | ⟶  | 🖐️ used |
 | npm | 👂 heard | ⟶  | 🎓 known |
 
-Total: you have `10` of `98` skills, `88` to be upgraded, and `1` above needed
+Total: you have `75` of `98` skills, `23` to be upgraded, and `9` above needed
 
 ## [Async](/Skills/Async.md)
 
